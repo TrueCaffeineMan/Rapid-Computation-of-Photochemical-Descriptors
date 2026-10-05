@@ -38,7 +38,7 @@ The calculations were performed separately for each stereoisomer.
 3. Generate a conformer ensemble with CREST using GFN2-xTB and ALPB(DMSO).
 4. Run `properties.py` in the directory containing `crest_conformers.xyz`.
 5. Check for dark states and missing polarizabilities with the corresponding utility scripts (none were found).
-6. Pool the ensemble rows from multiple molecular directories with `CSV_pooling.py`.
+6. Pool the ensemble rows from multiple molecule directories with `CSV_pooling.py`.
 
 ## Software Requirements
 
