@@ -95,7 +95,7 @@ calculations/
 
 ### 1. Generate and Pre-optimize a 3D Structure
 
-Run the following command inside the molecular directory:
+Run the following command inside a molecule directory:
 
 ```bash
 obabel -ismi init.smi -oxyz -O init.xyz --gen3d -h && \
