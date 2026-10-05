@@ -22,7 +22,7 @@ The main workflow was used to generate conformer ensembles and calculate conform
 
 ## Repository Contents
 
-| File | Role |
+| File | Utility |
 | --- | --- |
 | `properties.py` | Main workflow for conformer processing, descriptor calculation, Boltzmann averaging, and thermochemistry. |
 | `CSV_pooling.py` | Utility for pooling Boltzmann-averaged descriptors |
